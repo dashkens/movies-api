@@ -20,7 +20,7 @@
    ```bash
    npm start
 
-**Visit http://localhost:3000 in your browser to view the application. You can set up any port of your liking to run the application!**
+**Visit http://localhost:3000 on your browser to view the application. You can set up any port of your liking to run the application!**
 
 ## Usage 
 1. Use the search functionality to find movies by genre or title.
