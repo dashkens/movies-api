@@ -6,11 +6,11 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/dashkens/movies-api-project.git
+   git clone https://github.com/dashkens/movies-api.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd movies-api-project
+   cd movies-api
 
 3. **Install dependencies:**
    ```bash
